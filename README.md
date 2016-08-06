@@ -6,9 +6,8 @@ Coderschool Jul 2016 - Team: **Tan Bui**
 
 Time spent: **xx** hours
 
-##User Stories##
 
-**Required** functionality:
+**Required** functionssality:
 
 *
 *
@@ -20,7 +19,7 @@ Time spent: **xx** hours
 *
 *
 
-
+dasdasda
 
 ## Video Walkthrough 
 
